@@ -1,0 +1,20 @@
+.container-sect.std-class
+{
+	margin-top: 100px;
+	width: 800px;
+	margin-left: 10%;
+	margin: auto;
+}
+
+.container-sect.std-class textarea,
+.container-sect.std-class input
+{
+	width: 70%;
+}
+
+.form-control.lang-cls
+{
+	display: inline-block;
+    width: 16%;
+    margin-left: 200px;
+}

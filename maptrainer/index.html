@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Геоланг</title>
+	<link rel="stylesheet" href="styles/style.css">
+	<link rel="stylesheet" href="styles/font-awesome.min.css">
+	<script src="js/jquery3.0.0.js"></script>
+	<script src="js/jqueryUI.js"></script>
+	<script src = "maps/map1.js"></script>
+	<script type = "text/javascript" src = "js/platform.js"></script>
+</head>
+<body>
+	<div id = "preload">
+		<h1>Подождите, идёт загрузка</h1>
+		<i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw"></i>
+	</div>
+
+	<div id="markers">
+		
+
+		<div class = "endInterface">
+			<a href = "#" class = "goBack" id = "CheckBtn">Завершить</a>
+			<a href = "index.html" class = "rndIconButton resume"><i class="fa fa-undo" aria-hidden="true"></i></a>
+			<a href = "#" class = "rndIconButton exit"><i class="fa fa-times" aria-hidden="true"></i></i></a>
+		</div>
+	</div>
+
+	<div id="mapContainer">
+		<img src = "maps/worldmap.png" id = "mapImg" style = "display:none">
+	</div>
+
+	<div id="modalMark">
+		<div class = "canTransform">(Вы можете перемещать данное окно)</div>
+
+		<h1>Оценка: 80%</h1>
+		
+
+		<div id = "modalFooter">
+			<a href = "index.html" class = "goBack modalBtn">Повторить</a>
+			<a href = "#" class = "goBack modalBtn">Выйти</a>
+		</div>
+	</div>
+	<div id = "hover"></div>
+</body>
+</html>
