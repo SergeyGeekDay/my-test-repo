@@ -10,7 +10,8 @@
 	<link rel="stylesheet" href="/models/callcreator/css/style.css">
 	<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAJv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREREREREREREREREREREREREREQEREREREREQABEREREREREQARERERABEREAAREREAAREREAEREAAAARERABEBEAABERAAEREREAAAEAAREREREAAAABEREREQEQAAERERERAAAAAREREREREAABEREAEREAARERERAAAAARH//wAA//8AAP+/AAD/HwAA/88AAPPjAADx+QAA4HwAANh4AAD+CAAA/4AAAP+wAAD/gAAA//AAAPnjAAD8BwAA" rel="icon" type="image/x-icon" />
 	<!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	
+	<script   src="https://code.jquery.com/jquery-2.2.4.js"   integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="   crossorigin="anonymous"></script>
+	<script src="jquery.mask.js"></script>
 	
 	</head>
 <body>
@@ -34,7 +35,7 @@
 			</select>
 		</label>
       <label for="login">Номер 1:</label>
-      <input type="text" name="num1" id="login" value="79854375780">
+      <input type="text" name="num1" id="login" maxlength="10" placeholder="79854375780">
     </p>
 
     <p>
@@ -55,13 +56,16 @@
 		</label>
       <label for="password">Номер 2:</label>
       <!--<input type="text" name="num2" id="password" value="79854375780">-->
-      <input type="text" name="num2" id="password" value="79689920798">
+      <input type="text" name="num2"  maxlength="10" id="password" placeholder="79689920798">
     </p>
 	
     <p class="login-submit">
       <button type="submit" class="login-button">Позвонить</button>
     </p>
   </form>
-
+<script>
+$('[name="num1"]').mask('79689920798');
+$('[name="num2"]').mask('79689920798');
+</script>
 </body>
 </html>

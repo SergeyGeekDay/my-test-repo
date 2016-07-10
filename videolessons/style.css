@@ -32,3 +32,15 @@
 {
 	height: 10px;
 }
+
+.text-decor.std-class
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.text-decor.std-class img
+{
+	width: 75px;
+}

@@ -36,6 +36,11 @@ var MainApplicationConference = React.createClass({
 		
 		return (
 			<section className="conf-std">
+				<h1 className="text-decor std-class">
+					<a href="/">
+						<img src="back.png" alt="back" />
+					</a>
+				</h1>
 				<h1 className="text-center">Зал конференции</h1>
 				<div className="container">
 					<div className="col-xs-6">

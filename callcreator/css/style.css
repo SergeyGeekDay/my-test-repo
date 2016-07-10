@@ -285,3 +285,8 @@ label {
 {
 	width: 80px;
 }
+
+body *
+{
+	outline: none;
+}
