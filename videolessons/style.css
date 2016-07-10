@@ -1,0 +1,34 @@
+.std-list-item img
+{
+	width: 75px;
+}
+
+.std-list-item
+{
+	line-height: normal;
+	box-sizing: border-box;
+	border: 2px solid transparent;
+	padding: 7px;
+}
+
+.std-list-item:hover
+{
+	border: 2px solid gainsboro;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.std-class.descr-i
+{
+	font: 12px Arial;
+}
+
+.list-group * 
+{
+	position: static;
+}
+
+.gap-10
+{
+	height: 10px;
+}

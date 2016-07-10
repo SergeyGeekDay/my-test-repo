@@ -280,3 +280,8 @@ label {
    height: 34px;
    color: gray;
 }
+
+.text-decor.std-class img
+{
+	width: 80px;
+}

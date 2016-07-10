@@ -7,5 +7,12 @@
 	
 	// file_get_contents($vx);
 	// header('Location: ' . $_POST['back_url']);
-	var_dump($_POST, PHP_EOL, $vx);
+	var_dump('post', $_POST, PHP_EOL, 'get', $_GET);
+	// $arT = array();
+	
+	// foreach ($_POST as $k => $entr) {
+		// $arT[] = $k . '=' . $entr;
+	// }
+	
+	// echo implode('&', $arT)
 ?>
