@@ -1,0 +1,38 @@
+#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-image {
+				height: 175px;
+				background-image: url(../attachments/Header/published_academic_01.jpg);
+				border-radius: 0 0 0 0;}#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-logo {
+				top: 22px;
+				left: 20px;
+			}
+			.rtl #widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-logo {
+				right: 20px;
+			}#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-title {
+				top: 26px;
+				left: 154px;
+			}
+			.rtl #widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-title {
+				right: 154px;
+			}
+			#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-title a {
+				color: #FFFFFF;
+				font-weight: bold;
+				font-size: 26px;
+				font-style: normal;
+				font-family: Arial, sans-serif;
+				text-decoration: none;
+			}#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-subtitle {
+				top: 63px;
+				left: 156px;
+			}
+			.rtl #widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-subtitle {
+				right: 156px;
+			}
+			#widget-819d71af-ed8d-11da-5250-ca5fe422285b .header-subtitle a {
+				color: #FFFFFF;
+				font-weight: normal;
+				font-size: 16px;
+				font-style: italic;
+				font-family: Arial, sans-serif;
+				text-decoration: none;
+			}

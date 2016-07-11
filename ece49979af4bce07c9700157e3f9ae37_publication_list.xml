@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PUBLICATION-LIST CREATE-TIME="1468088636" VERSION="2.0" SITE-ID="ece49979af4bce07c9700157e3f9ae37">
+  <FILES VERSION="12.0.7.43553.14121017">
+    <ITEM>init.php</ITEM>
+    <ITEM>Zend/Loader.php</ITEM>
+    <ITEM>Zend/Loader</ITEM>
+    <ITEM>Zend/Exception.php</ITEM>
+  </FILES>
+  <ADDITIONALITEMS VERSION="12.0.7.43553.14121017">
+    <ITEM>data</ITEM>
+    <ITEM>attachments</ITEM>
+    <ITEM>attachments/Header</ITEM>
+    <ITEM>attachments/Header/published_academic_01.jpg</ITEM>
+    <ITEM>css</ITEM>
+    <ITEM>css/header-819d71af-ed8d-11da-5250-ca5fe422285b.css</ITEM>
+    <ITEM>css/text-9cdbf683-3771-03ba-b49f-4906c7e6b578.css</ITEM>
+    <ITEM>css/text-7565891c-013b-b41e-d5d4-3c5147632234.css</ITEM>
+    <ITEM>css/text-94cdbec2-c3f6-1e3f-5001-7961969162e1.css</ITEM>
+    <ITEM>css/text-4bdcb96a-3029-bd2d-1fdb-4f9b9235a382.css</ITEM>
+    <ITEM>css/text-34e6c497-7312-47a6-aa84-c62489056969.css</ITEM>
+    <ITEM>css/text-e8af5d8b-a4c4-e68b-8014-5d5b212b3081.css</ITEM>
+    <ITEM>css/text-5f22e91a-4405-fa41-8895-2055385eaf60.css</ITEM>
+    <ITEM>js</ITEM>
+    <ITEM>js/anti_cache.js</ITEM>
+    <ITEM>css/layout.css</ITEM>
+    <ITEM>index.html</ITEM>
+    <ITEM>home</ITEM>
+    <ITEM>home/index.html</ITEM>
+    <ITEM>css/style.css</ITEM>
+    <ITEM>robots.txt</ITEM>
+    <ITEM>sitemap.xml</ITEM>
+    <ITEM>fb</ITEM>
+    <ITEM>fb/index.html</ITEM>
+    <ITEM>fb/home</ITEM>
+    <ITEM>fb/home/index.html</ITEM>
+    <ITEM>css/facebook.css</ITEM>
+    <ITEM>attachments/Image</ITEM>
+    <ITEM>attachments/Image/GeoVideo.png</ITEM>
+    <ITEM>attachments/Image/Geolang.png</ITEM>
+    <ITEM>attachments/Image/GeoMap.png</ITEM>
+    <ITEM>attachments/Image/GeoChat.png</ITEM>
+    <ITEM>attachments/Background</ITEM>
+    <ITEM>attachments/Background/bg05.png</ITEM>
+    <ITEM>attachments/Background/bg02.png</ITEM>
+    <ITEM>attachments/Background/bg03.png</ITEM>
+    <ITEM>attachments/Background/bg04.png</ITEM>
+    <ITEM>attachments/Background/bg01.png</ITEM>
+    <ITEM>attachments/builtin</ITEM>
+    <ITEM>attachments/builtin/Logo</ITEM>
+    <ITEM>attachments/builtin/Logo/white.png</ITEM>
+    <ITEM>attachments/builtin/Header</ITEM>
+    <ITEM>attachments/builtin/Header/academic_01.jpg</ITEM>
+    <ITEM>attachments/Header/image_0.jpg</ITEM>
+    <ITEM>attachments/Header/image_1.jpg</ITEM>
+    <ITEM>attachments/Header/thumbnail_image_0.jpg</ITEM>
+    <ITEM>attachments/Header/thumbnail_image_1.jpg</ITEM>
+    <ITEM>attachments/Documents</ITEM>
+    <ITEM>attachments/Documents/.htaccess</ITEM>
+  </ADDITIONALITEMS>
+  <MODULES VERSION="12.0.7.43553.14121017">
+    <ITEM>text</ITEM>
+    <ITEM>navigation</ITEM>
+  </MODULES>
+  <COMPONENTS VERSION="12.0.7.43553.14121017">
+    <ITEM>jquery/jquery.min.js</ITEM>
+  </COMPONENTS>
+  <TEMPLATE VERSION="5.0.0"/>
+</PUBLICATION-LIST>

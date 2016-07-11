@@ -1,0 +1,15 @@
+.widget-navigation .widget-content > a {
+	background: url('menu-toggle.png') no-repeat center;
+	display: none;
+	height: 30px;
+	width: 30px;
+	margin: 4px;
+}
+
+.mobile-view .widget-navigation .widget-content > a {
+	display: block;
+}
+
+.mobile-view .navigation {
+	display: none;
+}
